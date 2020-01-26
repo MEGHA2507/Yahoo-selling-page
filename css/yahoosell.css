@@ -1,0 +1,42 @@
+body{
+    padding-top: 20px;
+}
+
+.nav-justified{
+    background-color: #eee;
+    border-radius: 5px;
+    padding: 15px 0;
+    border: 1px solid black;
+    color: black;      
+}
+
+.nav-item{
+    color:black;
+}
+
+.nav-item > a:hover{
+    padding: 15px 0;
+    color: black;
+    text-align: center;
+    background-color: #e5e5e5;
+    text-decoration: none;
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: transparent;
+}
+
+.jumbotron .btn{
+    padding: 15px 25px;
+    font-size: 22px;
+}
+
+.centro{
+    text-align: center;
+}
+
+footer{
+    background-color:rgb(196, 194, 194);
+    text-align: center;
+}
